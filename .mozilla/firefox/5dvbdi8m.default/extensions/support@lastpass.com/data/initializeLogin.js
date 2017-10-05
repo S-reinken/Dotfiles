@@ -1,1 +1,0 @@
-LPRequire.requireJS(["interfaces","extensionLoginDropdownInterface"],function(){LPPlatform.initialize({messageShim:window,context:"login",getData:!0,interfaceDefinition:Interfaces.ExtensionLoginDropdownInterface,callback:function(){Interfaces.ExtensionLoginDropdownInterface.ExtensionDropdown.open.before=function(n){bg.getData({context:"login",callback:n})}}})});

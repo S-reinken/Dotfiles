@@ -1,1 +1,0 @@
-LPPlatform.initialize({context:"vault",getData:!0,pollBackground:!0});
