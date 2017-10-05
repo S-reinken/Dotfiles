@@ -2,12 +2,12 @@
   "lastUpgradeScriptRun": "v2.2.0",
   "appId": "91744e6a868a56a05060c4f3633968d7a2c4a935",
   "windowSettings": {
-    "x": 507,
-    "y": 25,
+    "x": 588,
+    "y": 103,
     "width": 1024,
     "height": 1251,
     "fullScreen": false,
-    "maximized": false
+    "maximized": true
   },
   "registration": {
     "email": "sreinken3@gatech.edu",
