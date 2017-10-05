@@ -1,0 +1,1 @@
+LPPlatform="undefined"==typeof LPPlatform?{}:LPPlatform,function(e){e.requestFrameworkInitializer=function(e){return self.port.on("message",e),function(e){self.port.emit("message",e)}}}(LPPlatform);

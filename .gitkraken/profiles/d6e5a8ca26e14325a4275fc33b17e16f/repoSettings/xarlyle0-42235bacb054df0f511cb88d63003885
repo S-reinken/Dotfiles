@@ -1,0 +1,10 @@
+{
+  "remoteParents": {},
+  "layout": {
+    "GraphPanel": {
+      "Tree": {
+        "width": 59
+      }
+    }
+  }
+}

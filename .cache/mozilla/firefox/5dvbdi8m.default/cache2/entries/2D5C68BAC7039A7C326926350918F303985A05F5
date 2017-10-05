@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<title>My LastPass Vault</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_buttons_css?1475780935">
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_newvaultGlobal_css?1498840371">
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_dialog_css?1505937992">
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_notifications_css?1475780935">
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_vault_css?1505412700">
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_vaultItem_css?1493314342">
+<link rel="stylesheet" type="text/css" href="../m.php/newvault_fonts_fontawesome_min_css?1507125703">
+<script type="text/javascript" nonce="6NLx8coNk_aauYSHa--_M9wORSN7IUaFgvGKENMdAsE=">var filemtimes = {"migrationsWeb.js":1506967508,"passwordMeter.js":1506967508,"applicationDialogc.js":1506967508,"noteDialog.css":1497613904,"identityDropdownc.js":1506967508,"linkAccountDialog.css":1475780935,"customNoteTemplateDialogc.js":1506967508,"applicationDialog.html":1470440083,"vaultItemSelectDialogc.js":1506967508,"dialogWithGroupInputc.js":1506967508,"settingsDialog.js":1506967508,"vaultItemTypeaheadc.js":1506967508,"convertLegacySharedFolderDialog.css":1501854592,"chooseProfileDialogc.js":1506967508,"inviteFriendsDialog.html":1470440083,"topicsc.js":1506967508,"request.js":1506967508,"initializeVault.js":1506967508,"generatePasswordDialog.html":1470440083,"platformBackgroundOverride.js":1506967508,"verifyEmailDialogc.js":1506967508,"folderDialog.html":1470440083,"platformBackground_tmpc.js":1506967508,"preferencesc.js":1506967508,"platformBackgroundFramec.js":1506967508,"settingsDialog.html":1478709918,"provisioningc.js":1506967508,"repromptDialog.js":1506967508,"lpGrid.css":1495831713,"shareDialog.js":1506967508,"linkAccountDialog.html":1478709918,"platformBackgroundOverridec.js":1506967508,"serverEmergencyAccessc.js":1506967508,"denyEmergencyAccessDialog.js":1506967508,"interfacesc.js":1506967508,"buildVarsc.js":1506967508,"vaultItem.css":1493314342,"dialogFieldsc.js":1506967508,"chooseProfileDialog.html":1470440083,"notifications.js":1506967508,"vaultItemSelectDialog.html":1470440083,"noteDialogc.js":1506967508,"siteDialog.js":1506967508,"preferences.js":1506967508,"oneMinuteSignupc.js":1506967508,"dialogFields.js":1506967508,"platformMobilec.js":1506967508,"vaultRepromptDialogc.js":1506967508,"dialogsc.js":1506967508,"newserver.js":1506967508,"familiesInvitationDialog.html":1505937992,"bloodhound.js":1506967508,"tryFamiliesDialogc.js":1506967508,"sharingModel.js":1506967508,"iframe.html":1505317349,"folderDialog.js":1506967508,"createSharedFolderDialog.html":1470440083,"vaultItemSelectDialog.js":1506967508,"shareDialogc.js":1506967508,"emergencyAccessModel.js":1506967508,"vaultState.js":1506967508,"upgradePremiumDialogc.js":1506967508,"backgroundServer.js":1506967508,"loginDialog.js":1506967508,"familiesSharedFolderDialog.js":1506967508,"newvaultGlobal.css":1498840371,"bloodhoundDropdown.js":1506967508,"serverIdentities.js":1506967508,"addItemDialog.css":1505317349,"gulpfilec.js":1506967508,"settingsBackgroundInterfacec.js":1506967508,"backgroundInterface.js":1506967508,"familiesInvitationDialog.js":1506967508,"bloodhoundDropdownc.js":1506967508,"controllerc.js":1506967508,"newserverc.js":1506967508,"vaultHistory.js":1506967508,"sharingKeyDialogc.js":1506967508,"betterGeneratePasswordDialog.js":1506967508,"backgroundRequester.js":1506967508,"confirmationDialog.js":1506967508,"strings.js":1506967508,"loginDialogc.js":1506967508,"vaultRepromptDialog.html":1470440083,"sharedFolderDialog.css":1475780935,"controller.js":1506967508,"betterGeneratePassword.css":1504777338,"identityDialog.html":1470440083,"recordTypeConfig.js":1506967508,"customNoteTemplateDialog.js":1506967508,"identityDialogc.js":1506967508,"vaultStrings.js":1506967508,"oneMinuteSignup.js":1506967508,"identityDropdown.js":1506967508,"formfill-custom-fields-usagec.js":1506967508,"customNoteTemplateDialog.css":1475780935,"serverSitesNotes.js":1506967508,"website_eventc.js":1506967508,"extensionReflection.js":1506967508,"lpArrow.js":1506967508,"alertDialog.html":1470440083,"bloodhoundc.js":1506967508,"siteDialogc.js":1506967508,"shareDialog.css":1475780935,"recordTypeConfigc.js":1506967508,"containerSelectionDialog.css":1475780935,"formFillDialog.js":1506967508,"serverSharedFolders.js":1506967508,"buttons.css":1475780935,"verifyEmailDialog.js":1506967508,"formFillDialogc.js":1506967508,"upgradeFamiliesDialogc.js":1506967508,"addEmergencyAccessDialog.js":1506967508,"acceptRejectShareDialog.css":1475780935,"tools.js":1506967508,"backgroundInterfacec.js":1506967508,"policies.js":1506967508,"enterpriseTrialDialogc.js":1506967508,"websiteBackground.js":1506967508,"lpArrowc.js":1506967508,"vaultModel.js":1506967508,"jquery-3.2.1.minc.js":1506967508,"applicationDialog.js":1506967508,"timezoneSelectc.js":1506967508,"addFormFieldDialog.html":1470440083,"gulpfile.js":1506967508,"phoneFormatDropdown.js":1491839708,"selectDropdownc.js":1506967508,"cc3lc.js":1506967508,"selectDropdown.js":1506967508,"formFillDialog.html":1498750207,"fieldHistoryDialogc.js":1506967508,"dialog.js":1506967508,"migrationsWebc.js":1506967508,"creditModelc.js":1506967508,"serverEmergencyAccess.js":1506967508,"jquery-1.10.2.minc.js":1506967508,"acceptRejectShareDialogc.js":1506967508,"capslockstatec.js":1506967508,"platformDialogs.js":1506967508,"createCreditMonitoringDialog.html":1470440083,"inviteFriendsDialogc.js":1506967508,"createCreditMonitoringDialogc.js":1506967508,"containerSelectionDialog.js":1506967508,"viewc.js":1506967508,"vault.css":1505412700,"familiesSharedFolderDialog.css":1503598629,"platformBackgroundFrame.js":1506967508,"sharingKeyDialog.js":1506967508,"capslockstate.js":1506967508,"vaultItemTypeahead.js":1506967508,"phoneInputc.js":1506967508,"siteDialog.css":1475780935,"generatePasswordDialogc.js":1506967508,"platformOverride.js":1506967508,"familiesSharedFolderDialogc.js":1506967508,"formfill-custom-fields-usage.js":1506967508,"iframec.js":1506967508,"preferences\/preferencesc.js":1506965418,"preferences\/preferencesConnectorc.js":1506965418,"preferences\/preferences.js":1494257894,"preferences\/preferencesConnector.js":1486133533,"sharedFolderAccessDialog.js":1506967508,"denyEmergencyAccessDialog.html":1470440083,"cc.js":1506967508,"identityDialog.css":1475780935,"createCreditMonitoringDialog.css":1475780935,"vaultRepromptDialog.js":1506967508,"lpPing.js":1506967508,"betterGeneratePasswordDialog.html":1497456096,"featurec.js":1506967508,"features.js":1506967508,"platform.js":1506967508,"sharedFolderDialog.js":1506967508,"cc3l.js":1506967508,"backgroundRequesterc.js":1506967508,"familiesSharedFolderDialog.html":1503598629,"migrations.js":1506967508,"upgradeFamiliesDialog.js":1506967508,"createCreditMonitoringDialog.js":1506967508,"repromptDialog.html":1470440083,"loginDialog.css":1475780935,"buildVars.js":1506967508,"creditModel.js":1506967508,"vaultModelc.js":1506967508,"iframe.css":1475780935,"timezoneSelect.js":1506967508,"vault.js":1506967508,"enterpriseTrialDialog.html":1470440083,"settingsDialogc.js":1506967508,"acceptRejectShareDialog.html":1470440083,"passwordMeter.css":1493135585,"shareDialog.html":1470440083,"folderDialogc.js":1506967508,"fieldHistoryDialog.css":1475780935,"modelc.js":1506967508,"sharedFolderDialog.html":1484062886,"serverSharedFoldersc.js":1506967508,"vaultStatec.js":1506967508,"topics.js":1506967508,"settingsBackgroundInterface.js":1506967508,"notificationsc.js":1506967508,"chooseProfileDialog.css":1475780935,"toolsc.js":1506967508,"generatePasswordDialog.css":1497547468,"createAccountDialog.html":1470440083,"upgradePremiumDialog.html":1498672419,"noteDialog.html":1497613904,"model.js":1506967508,"websiteBackgroundc.js":1506967508,"Tour\/introTourQueue.js":1504711021,"Tour\/OmarTour\/omarMigrationTour.js":1505750926,"Tour\/introTourDialog.css":1505221802,"Tour\/introTourPreferences.js":1504711021,"Tour\/FamilyOnboarding\/familyOnboardingTour.js":1505159279,"Tour\/Vault41Tour\/vault41Tour.js":1505144293,"Tour\/introTourData.js":1504711021,"Tour\/introTourFlow.js":1504711021,"Tour\/introTour.js":1504711021,"Tour\/introTourDialog.js":1503948194,"Tour\/lpPingManager.js":1495741916,"Tour\/introTourShade.js":1495741916,"Tour\/introTourDialog.html":1502799929,"sharedFolderAccessDialog.css":1475780935,"requestc.js":1506967508,"jquery-3.2.1.min.js":1506967508,"notifications.css":1475780935,"phoneFormatDropdownc.js":1506967508,"siteDialog.html":1470440083,"createAccountDialog.css":1475780935,"identityDialog.js":1506967508,"stateDropdown.js":1506967508,"stringsc.js":1506967508,"vaultDialogsc.js":1506967508,"feature.js":1506967508,"interfaces.js":1506967508,"sharedFolderDialogc.js":1506967508,"acceptShareLoginDialog.html":1470440083,"containerSelectionDialogc.js":1506967508,"view.js":1506967508,"vaultHistoryc.js":1506967508,"addEmergencyAccessDialog.html":1470440083,"linkAccountDialog.js":1506967508,"policiesc.js":1506967508,"addItemDialogc.js":1506967508,"generatePasswordDialog.js":1506967508,"inviteFriendsDialog.js":1506967508,"confirmationDialogc.js":1506967508,"migrationsc.js":1506967508,"betterGeneratePasswordDialog.css":1505317349,"lp-vault\/fonts\/font-awesome.css":1486133533,"lp-vault\/fonts\/fonts.css":1486133533,"lp-vault\/config\/config.template.js":1493324793,"lp-vault\/config\/config.fallback.js":1493324793,"lp-vault\/dist\/style.css":1487869011,"lp-vault\/dist\/zone.min.js":1493324793,"lp-vault\/dist\/long-stack-trace-zone.min.js":1493324793,"lp-vault\/dist\/app.js":1493324793,"lp-vault\/dist\/shim.min.js":1493324793,"lp-vault\/dist\/vendor.js":1493324793,"lp-vault\/tasks\/create-appcache.task.js":1493324793,"lp-vault\/webpack.common.js":1493324793,"lp-vault\/webpack.dev.js":1493324793,"lp-vault\/webpack.config.js":1493324793,"lp-vault\/webpack.aot.config.js":1493324793,"lp-vault\/webpack.prod.config.js":1493324793,"lp-vault\/settings.html":1487869011,"lp-vault\/app\/settings.template.html":1486133533,"lp-vault\/app\/common\/modal-body.template.html":1486133533,"lp-vault\/app\/common\/modal.template.html":1486133533,"lp-vault\/app\/common\/sidebar-body.template.html":1486133533,"lp-vault\/app\/common\/select.template.html":1486133533,"lp-vault\/app\/common\/spinner\/spinner.template.html":1486133533,"lp-vault\/app\/common\/sidebar.template.html":1486133533,"lp-vault\/app\/common\/checkbox.template.html":1486133533,"lp-vault\/app\/common\/sidebar-actions.template.html":1486133533,"lp-vault\/app\/common\/switch.template.html":1486133533,"lp-vault\/app\/common\/toast.template.html":1486133533,"lp-vault\/app\/common\/progress-bar\/progress-bar.template.html":1486133533,"lp-vault\/app\/common\/sidebar-action-button.template.html":1486133533,"lp-vault\/app\/common\/collapsible.template.html":1486133533,"lp-vault\/app\/common\/notification\/notification.template.html":1486133533,"lp-vault\/app\/common\/modal-actions.template.html":1486133533,"lp-vault\/app\/common\/modal-action-button.template.html":1486133533,"lp-vault\/app\/common\/inline-notification.template.html":1486133533,"lp-vault\/app\/settings\/website-rules.template.html":1486133533,"lp-vault\/app\/settings\/preferences\/preference-input.template.html":1486133533,"lp-vault\/app\/settings\/preferences\/preference-dropdown.template.html":1486133533,"lp-vault\/app\/settings\/preferences\/hotkey.template.html":1486133533,"lp-vault\/app\/settings\/preferences\/preference-checkbox.template.html":1486133533,"lp-vault\/app\/settings\/devices.template.html":1486133533,"lp-vault\/app\/settings\/extension-preferences.template.html":1486478887,"lp-vault\/app\/settings\/account.template.html":1487869011,"lp-vault\/app\/settings\/offline.template.html":1486133533,"lp-vault\/app\/settings-offline.template.html":1486133533,"upgradePremiumDialog.js":1506967508,"upgradeFamiliesDialog.html":1502797575,"lpPingc.js":1506967508,"betterGeneratePasswordDialogc.js":1506967508,"verifyEmailDialog.html":1470440083,"familiesInvitationDialogc.js":1506967508,"convertLegacySharedFolderDialogc.js":1506967508,"serverIndividualSharing.js":1506967508,"dialogs.js":1506967508,"changePasswordDialog.js":1506967508,"vaultc.js":1506967508,"extensionReflectionc.js":1506967508,"extensionMessaging.js":1506967508,"website_event.js":1506967508,"serverIdentitiesc.js":1506967508,"serverIndividualSharingc.js":1506967508,"changePasswordDialogc.js":1506967508,"sharingKeyDialog.html":1470440083,"linkAccountDialogc.js":1506967508,"editableFieldsDialog.js":1506967508,"editableFieldsDialogc.js":1506967508,"confirmationDialog.html":1470440083,"addItemDialog.html":1497286424,"serverSitesNotesc.js":1506967508,"fieldHistoryDialog.js":1506967508,"repromptDialogc.js":1506967508,"vaultDialogs.js":1506967508,"backgroundServerc.js":1506967508,"sharingModelc.js":1506967508,"platformBackgroundc.js":1506967508,"tryFamiliesDialog.js":1506967508,"provisioning.js":1506967508,"emergencyAccessModelc.js":1506967508,"stateDropdownc.js":1506967508,"customNoteTemplateDialog.html":1497613903,"dialogWithGroupInput.js":1506967508,"formFillDialog.css":1493314341,"passwordMeterc.js":1506967508,"typeaheadDropdown.js":1506967508,"phoneInput.js":1506967508,"dialogc.js":1506967508,"addEmergencyAccessDialogc.js":1506967508,"platformBackgroundOverride_tmpc.js":1506967508,"platformc.js":1506967508,"enterpriseTrialDialog.js":1506967508,"platformBackground.js":1506967508,"settingsDialog.css":1475780935,"typeaheadDropdownc.js":1506967508,"loginDialog.html":1470440083,"platformDialogsc.js":1506967508,"chooseProfileDialog.js":1506967508,"sharedFolderAccessDialogc.js":1506967508,"convertLegacySharedFolderDialog.js":1506967508,"repromptDialog.css":1475780935,"platformMobile.js":1506967508,"vaultRepromptDialog.css":1475780935,"ccc.js":1506967508,"fieldHistoryDialog.html":1470440083,"tryFamiliesDialog.html":1504004483,"addItemDialog.js":1506967508,"countrySelectc.js":1506967508,"iframe.js":1506967508,"vault.html":1506084705,"acceptRejectShareDialog.js":1506967508,"sharedFolderAccessDialog.html":1470440083,"extensionMessagingc.js":1506967508,"createAccountDialog.js":1506967508,"createAccountDialogc.js":1506967508,"noteDialog.js":1506967508,"countrySelect.js":1506967508,"platformOverridec.js":1506967508,"initializeVaultc.js":1506967508,"featuresc.js":1506967508,"dialog.css":1505937992,"convertLegacySharedFolderDialog.html":1501854592,"vaultStringsc.js":1506967508,"denyEmergencyAccessDialogc.js":1506967508};</script></head>
+
+<body class="loggedout">
+
+<div id="vaultLoadingOverlay">
+  <div>
+    <img src="images/vault_4.0/LP_Wallpaper.png" alt="Loading..."/>
+    <div></div>
+    <button id="loginButton" class="nbtn btn_midi gbtn">Login</button>
+    <p id="loginText">You are logged out of LastPass. To log in again, simply click on the LastPass extension icon near the top of your browser.</p>
+  </div>
+</div>
+
+<div id="omar-migration-tooltip" class="omar-migration-tooltip">
+  <h2 id="omar-migration-tooltip-label"></h2>
+  <div id="omar-migration-tooltip-body"></div>
+  <div class="buttons">
+    <button id="omar-migration-close-tooltip" class="nbtn btn_midi wbtn">Close</button>
+    <button id="omar-migration-next-tooltip" class="nbtn btn_midi rbtn"></button>
+  </div>
+</div>
+
+<div id="omar-migration-first-step" class="omar-migration-first-step">
+
+  <h2>We've got something for you!</h2>
+  <div>We've organized the Vault by what things are instead of how they're used. All your saved items are here, in the left sidebar.</div>
+  <div class="buttons">
+    <button id="omar-migration-first-step-later" class="nbtn btn_midi wbtn">Later</button>
+    <button id="omar-migration-start-tooltip" class="nbtn btn_midi rbtn">Learn more</button>
+  </div>
+</div>
+
+<div id="vault">
+
+  <div id="header" class="absolute top headerBar right">
+    <div class="absolute">
+      <div id="search">
+        <div class="menuButtonLeft">
+          <img id='logo' src='images/vault_4.0/LastPass_Logo.png' alt="LastPass"/>
+        </div>
+        <div class="searchWrapper menuButtonLeft">
+          <input type='text' id='vaultSearch' class='searchInput inputLight' autocomplete='off' placeholder='search my vault' spellcheck='false'/>
+        </div>
+        <div class="menuRight">
+          <div id="userMenuContainer" class="menuButtonRight">
+            <div id="userMenu"><img class="userIcon" src="images/vault_4.0/Profile.png"/></div>
+            <div id="userMenuText"></div>
+            <div id="userMenuItems" class="menuList"></div>
+          </div>
+          <div id="specialOfferMenu" class="menuButtonRight"><img src="images/vault_4.0/Gift.png"/>
+            <span class="showLarge userMenuTextPrimary">Gift LastPass</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="leftMenu" class="absolute left">
+    <div class="leftMenuContainer">
+      <div class="leftMenuRow">
+        <div id="leftMenuMinimizeButton" class="leftMenuCell leftMenuItem">
+          <div title="Collapse Menu" class="menuIcon"></div>
+          <span class="menuText">Collapse</span>
+        </div>
+      </div>
+      <div class="leftMenuRow">
+        <div class="leftMenuCell">
+          <div id="leftMenuItems">
+            <div id="leftMenuItemsContainer" class="omaria"></div>
+            <div class="no-omaria">
+              <div id="vaultMenuItem" class="leftMenuItem">
+                <div title="Sites" class="menuIcon"></div>
+                <p class="menuText">Sites</p>
+              </div>
+              <div id="notesMenuItem" class="leftMenuItem">
+                <div title="Secure Notes" class="menuIcon"></div>
+                <p class="menuText">Secure Notes</p>
+              </div>
+              <div id="formFillMenuItem" class="leftMenuItem">
+                <div title="Form Fills" class="menuIcon"></div>
+                <p class="menuText">Form Fills</p>
+              </div>
+              <div id="sharingMenuItem" class="sharingMenuItem leftMenuItem">
+                <div title="Sharing Center" class="menuIcon">
+                    <div class="notificationBubble"></div>
+                </div>
+                <p class="menuText">Sharing Center</p>
+              </div>
+              <div class="securityMenuItem leftMenuItem">
+                <div title="Security Challenge" class="menuIcon">
+                  <div class="securityScore"></div>
+                </div>
+                <span class="menuText">Security Challenge</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="securityMenuItem leftMenuRow leftMenuFooterItem omaria">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Security Challenge" class="menuIcon">
+            <div class="securityScore"></div>
+          </div>
+          <span class="menuText">Security Challenge</span>
+        </div>
+      </div>
+      <div class="sharingMenuItem leftMenuRow leftMenuFooterItem omaria">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Sharing Center" class="menuIcon">
+              <div class="notificationBubble"></div>
+          </div>
+          <p class="menuText">Sharing Center</p>
+        </div>
+      </div>
+      <div id="emergencyAccessMenuItem" user="Free User|Premium User|Family Admin|Family Role User|Family User" class="leftMenuRow leftMenuFooterItem">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Emergency Access" class="menuIcon">
+            <div class="notificationBubble"></div>
+          </div>
+          <span class="menuText">Emergency Access</span>
+        </div>
+      </div>
+      <div id="linkAccountMenuItem" user="Enterprise User|Enterprise Admin|Teams User|Teams Admin" class="leftMenuRow leftMenuFooterItem">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Link Personal Account" class="menuIcon"></div>
+          <span class="menuText">Link Account</span>
+        </div>
+      </div>
+      <div id="adminConsoleMenuItem" user="Enterprise Admin|Enterprise Role User|Teams Admin|Teams Role User" class="leftMenuRow leftMenuFooterItem">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Admin Console" class="menuIcon"></div>
+          <span class="menuText">Admin Console</span>
+        </div>
+      </div>
+      <div id="familyAdminConsoleMenuItem" user="Family Admin" class="leftMenuRow leftMenuFooterItem">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Manage Family" class="fa fa-group menuIcon"></div>
+          <span class="menuText">Manage Family</span>
+        </div>
+      </div>
+      <div id="settingsMenuItem" class="leftMenuRow leftMenuFooterItem">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="Account Settings" class="menuIcon"></div>
+          <span class="menuText">Account Settings</span>
+        </div>
+      </div>
+      <div id="advancedMenuItem" class="leftMenuRow leftMenuFooterItem">
+        <div class="leftMenuCell leftMenuItem">
+          <div title="More Options" class="menuIcon"></div>
+          <span class="menuText">More Options</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="tools" class="right middlePosition">
+    <ul>
+      <li><div class="toolsMenuItem title">More Options</div></li>
+      <li><div id="featureManager" class="toolsMenuItem">Transmogrifier</div></li>
+      <li><div class="toolsMenuItem" id="generateSharingKeys">Generate Sharing Keys</div></li>
+      <li user="Free User|Premium User"><div id="lp-try-families" class="toolsMenuItem" target="_blank">Try LastPass Families</div></li>
+      <li user="Free User"><a id="more-options-go-premium" class="toolsMenuItem" href="https://lastpass.com/go-premium" target="_blank">Go Premium</a></li>
+      <li user="Free User|Premium User"><div id="tryEnterprise" class="toolsMenuItem">LastPass Enterprise for Teams</div></li>
+      <li><div class="toolsMenuItem subMenuOption">Advanced</div></li>
+      <div class="toolsSubMenu">
+        <li user="Enterprise User|Enterprise Admin|Teams User|Teams Admin"><div class="toolsMenuItem" id="removedLinkedAccountMenuItem"><span class="tab1">Remove Linked Personal Account</span></div></li>
+        <li><div class="toolsMenuItem" id="toolsImport"><span class="tab1">Import</span></div></li>
+        <li><div class="toolsMenuItem" id="toolsExport"><span class="tab1">Export</span></div></li>
+        <li><div class="toolsMenuItem" id="deletedMenuItem"><span class="tab1">Deleted Items</span></div></li>
+        <li><div class="toolsMenuItem" id="historyMenuItem"><span class="tab1">History</div></li>
+        <li><div class="toolsMenuItem" id="creditMonitoringMenuItem"><span class="tab1">Credit Monitoring</div></li>
+        <li><div class="toolsMenuItem" id="bookmarkletsMenuItem"><span class="tab1">Bookmarklets</div></li>
+        <li><a class="toolsMenuItem" href="https://lastpass.com/otp.php" target="_blank"><span class="tab1">One Time Passwords</a></li>
+        <li><div class="toolsMenuItem" id="toolsOpenFavorites"><span class="tab1">Open All Favorites</span></div></li>
+        <li><div class="toolsMenuItem" id="manageIdentitiesMenuItem"><span class="tab1">Manage Identities</span></div></li>
+        <li><div class="toolsMenuItem" id="generatePasswordMenuItem"><span class="tab1">Generate Secure Password</span></div></li>
+      </div>
+      <li><div class="toolsMenuItem subMenuOption">Help</div></li>
+      <div class="toolsSubMenu">
+        <li><a class="toolsMenuItem" href="https://lastpass.com/support_helpcenter.php" target="_blank"><span class="tab1">Help Center</span></a></li>
+        <li><a class="toolsMenuItem" href="https://helpdesk.lastpass.com" target="_blank"><span class="tab1">User Manual</span></a></li>
+        <li><a class="toolsMenuItem" href="https://lastpass.com/support_screencasts.php" target="_blank"><span class="tab1">Tutorials</span></a></li>
+        <li><div class="toolsMenuItem" id="openTourMenuItem"><span class="tab1">Vault Tour</span></div></li>
+      </div>
+    </ul>
+  </div>
+
+  <div id="options" class="absolute right middlePosition middleHeight leftOfAd">
+
+    <h3 id="pageTitle" class="inlineblock"></h3>
+
+    <div id="moreActions" class="noWrap">
+      <span id="selectedItemCounter"></span>
+      <div id="actions" class="optionsDropdown">Actions<img class="optionDropdown" src='images/vault_4.0/Search_Arrow.png'/>
+        <div id="contextMenu" class="contextMenu dropdownMenu">
+          <ul></ul>
+        </div>
+      </div>
+    </div>
+
+    <div id="orderOption" class="optionsDropdown">
+      <label>Sort By:</label>
+      <span id="sortOrderOption">Folder (a-z)</span>
+      <img class="optionDropdown" src="images/vault_4.0/Search_Arrow.png"/>
+      <div id="sortOrderMenu" class="contextMenu dropdownMenu">
+        <ul>
+        </ul>
+      </div>
+    </div>
+
+    <div id="displayButtons" class="optionButtons">
+      <div title="Grid View" id="gridButton" class="selected optionButton"></div><div title="List View" id="listButton" class="optionButton"></div>
+    </div>
+
+    <div class="optionButtons">
+      <div title="Show Compact View" id="sizeToggle" class="toggleButton"></div>
+    </div>
+
+    <div id="optionButtons" class="optionButtons">
+      <div title="Collapse All" id="collapseAllToggle" class="collapseAllToggle toggleButton"></div>
+    </div>
+
+    <div class="optionButtons">
+      <button title="Show Reminders" id="showReminders" class="showReminders toggleButton">
+        <span id="reminderCountContainer" class="reminderCountContainer"><span id="reminderCount" class="reminderCount"></span></span>
+      </button>
+    </div>
+
+  </div>
+
+  <div id="sharingMenu" class="tabMenu absolute right middlePosition middleHeight leftOfAd itemContentPadding">
+    <div class="relative fillHeight">
+      <div class="listMargin">
+        <div id="sharedFoldersMenuItem" class="tabMenuItem">Manage Shared Folders<span class="tabNotification" title="Pending Items"></span></div>
+        <div id="sentSharesMenuItem" class="tabMenuItem">Shared with Others</div>
+        <div id="receivedSharesMenuItem" class="tabMenuItem">Shared with Me<span class="tabNotification" title="Pending Items"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="emergencyAccessMenu" class="tabMenu absolute right middlePosition middleHeight leftOfAd itemContentPadding">
+    <div class="relative fillHeight">
+      <div class="listMargin">
+              <div id="emergencyTrustedMenuItem" class="tabMenuItem">People I Trust</div>
+              <div id="emergencyTrustingMenuItem" class="tabMenuItem last">People Who Trust Me<span class="tabNotification" title="Pending Offers"></span></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="main" class="absolute right bottom leftOfAd">
+    <div id="mainScroll" class="absolute">
+      <div id="newSettingsWrapper">
+        <iframe id="new-settings-iframe" class="newSettingsIframe"></iframe>
+      </div>
+      <div id="emptyVaultOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_All_Omaria.png'  srcset='images/vault_4.0/Empty_All_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Nothing to see here</h1>
+                <p>Click the 'Add item' button to start organizing your Vault.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptySites" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Empty_Site.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Remember every password</h1>
+              <p>Save and fill passwords for any website or app. Search them all from your vault.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptyPasswordsOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Empty_Site_Omaria.png'  srcset='images/vault_4.0/Empty_Site_Omaria@2x.png 2x' class="tourImage"/>
+            <div class="tourText">
+              <div class="emptyVaultWrapper">
+                <h1>Add a password</h1>
+                <p>LastPass saves and fills passwords for any site, app, or service.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptySearch" class="emptyVaultContainer">
+        <div class="emptyVault search">
+          <div class="emptySearchPlaceholder">No Matching Results</div>
+        </div>
+      </div>
+
+      <div id="emptyNotes" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Empty_Note.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Store every note</h1>
+              <p>Add WiFi passwords, membership IDs, or any other info you want to keep safe.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptyNotesOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Empty_Note_Omaria.png'  srcset='images/vault_4.0/Empty_Note_Omaria@2x.png 2x' class="tourImage"/>
+            <div class="tourText">
+              <div class="emptyVaultWrapper">
+                <h1>Add a secure note</h1>
+                <p>Securely save and sync anything in LastPass: secret notes, contracts, or important legal documents.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptyAddressesOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Address_Omaria.png'  srcset='images/vault_4.0/Empty_Address_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Add an address</h1>
+                <p>These can be auto-filled into any form. They contain your contact information: address, phone, email, and more.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptyBankAccountsOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Bank_Account_Omaria.png'  srcset='images/vault_4.0/Empty_Bank_Account_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Add a bank account</h1>
+                <p>Bank accounts include account information for savings and checking accounts. They can be auto-filled into any form.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptyCreditCardsOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Credit_Card_Omaria.png'  srcset='images/vault_4.0/Empty_Credit_Card_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Add a payment card</h1>
+                <p>Payment cards include credit cards, debit cards, and anything else you use to shop. They can be auto-filled into any form.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptyFormFills" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Empty_Form.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Fill every form</h1>
+              <p>Add payment cards or address profiles to type less when shopping online.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptyReceivedShares" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Share_You.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Shared with You</h1>
+              <p>Review any passwords and notes others shared with you.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptyReceivedSharesOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Shared_Omaria.png'  srcset='images/vault_4.0/Empty_Shared_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Shared with You</h1>
+                <p>Review any passwords and notes others shared with you.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emptySentShares" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Share_Others.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Shared with Others</h1>
+              <p>Securely send passwords and notes to friends and family.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptySentSharesOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Shared_Omaria.png'  srcset='images/vault_4.0/Empty_Shared_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Shared with Others</h1>
+                <p>Securely send passwords and notes to friends and family.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="vaultContent" class="noSelect"></div>
+      <div id="vaultFooter" class="noSelect">
+        <div class="folder">
+          <div class="folderContainer"></div>
+          <div class="vaultFooterContent">
+              Add more sites instantly with our Email Importer. <span id="linkToOnemin">Connect your email account</span> to try it!
+          </div>
+        </div>
+      </div>
+      <div id="receivedSharesContent" class="noSelect"></div>
+      <div id="sentSharesContent" class="noSelect"></div>
+      <div id="sharedFoldersContent" class="noSelect"></div>
+      <div id="emptySharedFolders" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Manage_Folders.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Shared Folders</h1>
+              <p>Create and manage folders of shared logins and notes.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptySharedFoldersOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Shared_Folders_Omaria.png'  srcset='images/vault_4.0/Empty_Shared_Folders_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Shared Folders</h1>
+                <p>Create and manage folders of shared logins and notes.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="deletedItemsContent">
+        <div class="itemContentPadding">
+          <div class="viewExplanation listMargin">
+            <p>View passwords and notes that you have deleted from your vault. You can restore an item to your vault if needed, or permanently wipe deleted items. Items that have been deleted for 30 days will be wiped automatically.</p>
+          </div>
+          <div id="deletedItemsEmpty" class="listMargin">No deleted items were found.</div>
+        </div>
+        <div id="deletedItems" class="noSelect"></div>
+      </div>
+
+      <div id="identityContentContainer" class="itemContentPadding">
+        <div class="viewExplanation listMargin">
+          <p>An Identity helps you organize your vault into convenient 'subvaults'. Group your Sites, Secure Notes, and Form Fills based on what you need in specific situations, such as 'Home' and 'Work'. When you switch Identities, you'll only see and fill the items you added to your current identity.</p>
+        </div>
+        <div id="identityContent" class="noSelect"></div>
+      </div>
+
+      <div id="emptyCreditMonitoring" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Credit_Monitoring.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Keep an Eye on Your Credit Report</h1>
+              <p>Free, daily credit monitoring. Get notified of events and protect yourself from identity theft, with no impact on your credit score.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="creditMonitoring" class="itemContentPadding">
+
+        <div class="viewExplanation listMargin">
+          <p>Better protect your identity, monitor your credit scores, and get help from our team of experts in investigating and stopping unauthorized activity. For only 9.95 USD per month you will receive:</p>
+          <ul>
+            <li><strong>Identity Dashboard:</strong> 24/7 web access to your ID records and credit scores for all three credit bureaus.</li>
+            <li><strong>Regular Monitoring:</strong> Instant alerts to any changes, with details on what change and how to take action.</li>
+            <li><strong>Full-Service Resolution:</strong> Victim of identity theft? Our team of experts investigate and help restore your records</li>
+          </ul>
+
+          <div class='buttons'>
+            <a target="_blank" href="https://helpdesk.lastpass.com/lastpass-credit-monitoring/" class="nbtn wbtn btn_midi">FAQ</a>
+            <a target="_blank" href="https://lastpass.com/features_joinpremium_creditmon.php" class='nbtn rbtn btn_midi'>Upgrade</a>
+          </div>
+
+        </div>
+
+        <div class="creditMonitoringTable listMargin">
+          <div class="header">Credit Monitoring Profiles</div>
+          <table>
+            <thead>
+              <tr>
+                <th>Profile ID</th>
+                <th>Date Enabled</th>
+                <th>Status</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody class="profiles">
+              <tr>
+                <td colspan="4">You have not enabled credit monitoring for any profiles.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div class="creditMonitoringTable alertsTable listMargin">
+          <div class="header">Alerts</div>
+          <table>
+            <thead>
+              <tr>
+                <th>Date Received</th>
+                <th>Profile ID</th>
+                <th>Message</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody class="alerts">
+              <tr>
+                <td colspan="4">You have no alerts at this time.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+
+      <div id="emergencyTrusted">
+        <div class="itemContentPadding">
+          <div class="viewExplanation listMargin">
+            <p>In case something unexpected happens, give someone you trust access to your vault. When your trusted contact requests Emergency Access to your vault, you can decline their request within the specified waiting period. After the waiting period passes, your vault will sync to their LastPass account automatically.</p>
+          </div>
+        </div>
+        <div id="emergencyTrustedContainer" class="noSelect"></div>
+      </div>
+
+      <div id="emptyEmergencyTrusted" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Emergency_Access.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Add Emergency Access</h1>
+              <p>Give trusted family or friends access to your vault in case of an emergency. You choose when they can access.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptyEmergencyTrustedOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <div class="emptyVaultWrapper">
+              <img src='images/vault_4.0/Empty_Emergency_Access_Omaria.png'  srcset='images/vault_4.0/Empty_Emergency_Access_Omaria@2x.png 2x' class="tourImage"/>
+              <div class="tourText">
+                <h1>Add Emergency Access</h1>
+                <p>Give trusted family or friends access to your vault in case of an emergency. You choose when they can access.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="emergencyTrusting" class="noSelect"></div>
+
+      <div id="emptyEmergencyTrusting" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Emergency_Access.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Accept Emergency Access</h1>
+              <p>When someone grants you emergency access to their vault, their account will be listed here.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="emptyEmergencyTrustingOmaria" class="emptyVaultContainer">
+        <div class="emptyVault">
+          <div class="tour">
+            <img src='images/vault_4.0/Empty_Emergency_Access_Omaria.png'  srcset='images/vault_4.0/Empty_Emergency_Access_Omaria@2x.png 2x' class="tourImage"/>
+            <div class="tourText">
+              <h1>Accept Emergency Access</h1>
+              <p>When someone grants you emergency access to their vault, their account will be listed here.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div id="ad" class="middlePosition">
+  </div>
+
+
+
+  <div id="addMenu">
+    <ul id="addMenuItems" class="addMenu leftOfAd"></ul>
+    <div id="addMenuButton" class="addMenu leftOfAd">
+      <div id="addMenuButtonCustom"></div>
+      <div class="addMenuItem" id="addMenuButtonDefault">
+        <div><div><img src="images/vault_4.0/Add.png"/></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div id="addMenuArrow">
+    <img src='images/vault_4.0/Empty_Add_Arrow.png'  srcset='images/vault_4.0/Empty_Add_Arrow@2x.png 2x'>
+  </div>
+
+  <div id="dragElement" draggable="true"></div>
+
+  <div id="tour" class="absolute right bottom">
+    <div id="tourContainer" class="tour">
+      <div id="skipTour">
+        <img class="inline-block" src="images/vault_4.0/Tour_Close.png"/>
+        <span>Skip Tour</span>
+      </div>
+      <div id="tourLeft" class="iconButton tourArrow"></div>
+      <div id="tourRight" class="iconButton tourArrow"></div>
+      <div id="tourItemsContainer">
+        <div id="tourItems">
+          <div id="tour1" class="tour">
+            <img src='images/vault_4.0/Tour_1.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Welcome to LastPass!</h1>
+              <p>Your new vault puts all your passwords in one easy-to-use place.</p>
+            </div>
+          </div><div id="tour2" class="tour">
+            <img src='images/vault_4.0/Tour_2.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Not just passwords</h1>
+              <p>Take notes, fill forms, and share instantly. You can navigate using the column left of your vault.</p>
+            </div>
+          </div><div id="tour3" class="tour">
+            <img src='images/vault_4.0/Tour_3.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Search and manage</h1>
+              <p>Quickly search your vault or manage your account from the top of any area of your vault.</p>
+            </div>
+          </div>
+          <div id="tour4" class="tour">
+            <img src='images/vault_4.0/Tour_6.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Meet the Sharing Center</h1>
+              <p>One convenient place to manage the sites, notes, and folders you share with others.</p>
+            </div>
+          </div><div id="tour5" class="tour">
+            <img src='images/vault_4.0/Tour_7.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>Quickly add anything</h1>
+              <p>Add a new item to any part of your vault using this control in the bottom-right.</p>
+            </div>
+          </div><div id="tour6" class="tour">
+            <img src='images/vault_4.0/Tour_8.png' class="tourImage"/>
+            <div class="tourText">
+              <h1>You're all set!</h1>
+              <p>Want to learn more? Find help in the "More" menu, at the bottom-left of the vault.</p>
+              <button id="tourOpenMyVault" class="nbtn rbtn">Open my vault</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="tourSteps">
+        <div class="tourStep"></div>
+        <div class="tourStep"></div>
+        <div class="tourStep"></div>
+        <div class="tourStep"></div>
+        <div class="tourStep"></div>
+        <div class="tourStep"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="advacedOptionsOverlay" class="overlay leftOfAd"></div>
+<div id="dialogOverlay" class="overlay"></div>
+<div id="inProgressOverlay" class="overlay"></div>
+<div id="inProgressWithSpinner" class="spinner-overlay spinner"></div>
+<div id="inProgressMigration" class="spinner-overlay">
+  <div class="container--spinner">
+    <div class="spinner__header">
+      <div class="spinner">
+        <img src="images/vault_4.0/lp-loading.gif" class="spinner">
+      </div>
+    </div>
+    <div class="spinner__body">
+      <h2 class="spinner__body__headline">One Moment...</h2>
+      <p class="spinner__body__text">LastPass is updating.</p>
+      <div class="container--progress-bar">
+        <div class="progress-bar"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Tour Overlays -->
+<div class="overlay tourOverlay" id="addMenuTourOverlay"></div>
+<div class="overlay tourOverlay tour2Overlay tour4Overlay left"></div>
+<div class="overlay tourOverlay tour3Overlay top right"></div>
+<div class="overlay tourOverlay right middlePosition middleHeight"></div>
+<div class="overlay tourOverlay right bottom" id="mainTourOverlay"></div>
+<div class="overlay tourOverlay right bottom" id="tourOverlay"></div>
+
+<div id="oneminutesignup"></div>
+
+<script type='text/javascript' src="../m.php/newvault_jquery-3_2_1_min_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_topics_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_platform_js?1506967508"></script>
+
+<!-- This file is platform specific -->
+<script type='text/javascript' src="../m.php/newvault_platformOverride_js?1506967508"></script>
+
+<script type='text/javascript' src="../m.php/newvault_vaultStrings_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_controller_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_tools_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_dialog_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_dialogFields_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_dialogs_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_vaultDialogs_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_buildVars_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_cc_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_model_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_view_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_vaultModel_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_features_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_request_js?1506967508"></script>
+
+<!--OneMinuteSignup-->
+<script type='text/javascript' src="../m.php/newvault_oneMinuteSignup_js?1506967508"></script>
+
+<!-- Migration scripts -->
+<script type="text/javascript" src="../m.php/newvault_migrations_js?1506967508"></script>
+<script type="text/javascript" src="../m.php/newvault_migrationsWeb_js?1506967508"></script>
+
+<!-- These should loaded dynamically -->
+<script type='text/javascript' src="../m.php/newvault_creditModel_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_sharingModel_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_emergencyAccessModel_js?1506967508"></script>
+
+<script type='text/javascript' src="../m.php/newvault_selectDropdown_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_identityDropdown_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_notifications_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_vault_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_vaultState_js?1506967508"></script>
+
+<!-- This file is platform specific -->
+<script type='text/javascript' src="../m.php/newvault_initializeVault_js?1506967508"></script>
+<script type='text/javascript' src="../m.php/newvault_formfill-custom-fields-usage_js?1506967508"></script>
+
+<ext-route></ext-route>
+</body>
+</html>
+	{¦j      YÔéÆYÔê
+>D>Û       ¿    :https://lastpass.com/newvault/vault.php?noscript=1&fromindex=1&ac=1&lpnorefresh=1&fromwebsite=1&newvault=1&xmlerr=1&token=MTUwNzEyNTcwMi4yOTgtL9fQi%2F3eG6tYdsMRKToQZOvVTAQ3dJNY0k3PLeqKd9s%3D necko:classified 1 strongly-framed 1 security-info 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 request-method GET request-Accept-Encoding gzip, deflate, br response-head HTTP/2.0 200 OK
+content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+content-security-policy: default-src 'self'; img-src 'self' data: https://*.google-analytics.com https://lastpass.com https://analytics.twitter.com/i/adsct https://t.co/i/adsct https://www.facebook.com/tr; object-src 'self'; connect-src 'self' https://lastpass.com https://pollserver.lastpass.com https://loglogin.lastpass.com https://provisioning-api-prod.service.lastpass.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' 'self' https://lastpass.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'self'; font-src data: 'self' 'unsafe-inline' 'unsafe-eval' 'self' https://lastpass.com; frame-src 'self' https://1min-ui-prod.service.lastpass.com
+p3p: CP="NON DSP COR CUR OUR LEG PHY COM"
+server: LastPass
+vary: Accept-Encoding
+date: Wed, 04 Oct 2017 14:01:43 GMT
+X-Firefox-Spdy: h2
+ original-response-headers content-type: text/html; charset=UTF-8
+x-frame-options: SAMEORIGIN
+content-security-policy: default-src 'self'; img-src 'self' data: https://*.google-analytics.com https://lastpass.com https://analytics.twitter.com/i/adsct https://t.co/i/adsct https://www.facebook.com/tr; object-src 'self'; connect-src 'self' https://lastpass.com https://pollserver.lastpass.com https://loglogin.lastpass.com https://provisioning-api-prod.service.lastpass.com; style-src 'self' 'unsafe-inline' 'unsafe-eval' 'self' https://lastpass.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'self'; font-src data: 'self' 'unsafe-inline' 'unsafe-eval' 'self' https://lastpass.com; frame-src 'self' https://1min-ui-prod.service.lastpass.com
+p3p: CP="NON DSP COR CUR OUR LEG PHY COM"
+server: LastPass
+vary: Accept-Encoding
+date: Wed, 04 Oct 2017 14:01:43 GMT
+X-Firefox-Spdy: h2
+ uncompressed-len 0 net-response-time-onstart 100 net-response-time-onstop 111 predictor::resource-count 100 predictor::https://lastpass.com/newvault/images/vault_4.0/Emergency_Access.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Empty_Emergency_Access_Omaria.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Add.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Empty_Add_Arrow.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_Close.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_1.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_2.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_3.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_6.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_7.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Tour_8.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/lp-loading.gif 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_jquery-3_2_1_min_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_topics_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_platform_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_platformOverride_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_vaultStrings_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_controller_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_tools_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_dialog_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_dialogFields_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_dialogs_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_vaultDialogs_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_buildVars_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_cc_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_model_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_view_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_vaultModel_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_features_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_request_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_oneMinuteSignup_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_migrations_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_migrationsWeb_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_creditModel_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_sharingModel_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_emergencyAccessModel_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_selectDropdown_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_identityDropdown_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_notifications_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_vault_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_vaultState_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_initializeVault_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_formfill-custom-fields-usage_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Error.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Error_Close.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Success.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Success_Close.png 1,1,1507125702,4096 predictor::https://lastpass.com/images/clear_icon.gif 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Form_Fill.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Visa.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Search_Light.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Open_Arrow.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Expand_Arrow.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Sites_Active.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Notes.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Form_Fills.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Sharing.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Security_Challenge.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/LeftNav_Emergency_Access.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Left_Menu_Settings.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/More.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Grid_Active.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/List_Gray.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Zoom_Out.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Collapse_All.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Arrow_Open.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Generic_Grid_View.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Add_Red.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Add_Folder.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Add_Share.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Add_Secure_Note.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Add_White.png 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_lpPing_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Collapse_Arrow.png 1,1,1507125702,4096 predictor::https://lastpass.com/spriteinclude.php?prefix=img&newvault=1&spriteuid=137878862&spriteuidhash=137878862_1507125763_spriteincludephp_%245%24d6f3501a958bdb16b88191b0b2f2a6551876d30c8de000cab2c1b87f75a46d5e&rand=0.0009349945739508536 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_lpPingManager_js?1495741916 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourShade_js?1495741916 1,1,1507125702,4096 predictor::https://lastpass.com/images/sprites/137878862_137878862_1509890504_sprite_$5$fd47e68825eef0ce3148681a738716d2ace9e06d7c02a8f0cc90656949cf31a1_version86.png 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourPreferences_js?1504711021 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_FamilyOnboarding_familyOnboardingTour_js?1505159279 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_OmarTour_omarMigrationTour_js?1505750926 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_Vault41Tour_vault41Tour_js?1505144293 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourData_js?1504711021 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourFlow_js?1504711021 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourQueue_js?1504711021 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTour_js?1504711021 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_lpArrow_js?1506967508 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourDialog_js?1503948194 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_lpGrid_css?1495831713 1,1,1507125702,4096 predictor::https://lastpass.com/m.php/newvault_Tour_introTourDialog_css?1505221802 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Close_x.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/welcomemat.svg 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Circle_Success.svg 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/extension-locations.svg 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Loading.gif 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/More_Active.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Arrow_Closed.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Delete.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Edit.png 1,1,1507125702,4096 predictor::https://lastpass.com/newvault/images/vault_4.0/Share.png 1,1,1507125702,4096   Æ

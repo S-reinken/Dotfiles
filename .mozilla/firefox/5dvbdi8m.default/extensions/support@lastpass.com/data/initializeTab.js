@@ -1,0 +1,1 @@
+LPPlatform.initialize({interfaceDefinition:Interfaces.TabDialogInterface});
