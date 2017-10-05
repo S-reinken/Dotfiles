@@ -22,3 +22,19 @@
 \.gitkraken/profiles/d6e5a8ca26e14325a4275fc33b17e16f/
 
 \.config/GitKraken/GPUCache/
+
+\.atom/nohup\.out
+
+\.atom/storage/application\.json
+
+\.bash_history
+
+\.config/Atom/IndexedDB/file__0\.indexeddb\.leveldb/000003\.log
+
+\.config/Atom/Local Storage/file__0\.localstorage
+
+\.config/Atom/QuotaManager
+
+\.local/share/recently-used\.xbel
+
+\.fluxbox/init
