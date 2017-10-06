@@ -48,3 +48,11 @@
 \.config/pulse/
 
 \.local/share/xorg/
+
+\.gitkraken/secFile
+
+\.atom/blob-store/
+
+\.cache/mozilla/firefox/5dvbdi8m\.default/
+
+\.config/Atom/IndexedDB/file__0\.indexeddb\.leveldb/
