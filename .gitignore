@@ -53,6 +53,24 @@
 
 \.atom/blob-store/
 
+\.atom/\.apm/_cacache
+
 \.cache/mozilla/firefox/5dvbdi8m\.default/
 
 \.config/Atom/IndexedDB/file__0\.indexeddb\.leveldb/
+
+\.atom/\.apm/
+
+\.atom/\.node-gyp/
+
+\.atom/\.node-gyp/\.config/configstore/
+
+\.atom/compile-cache/
+
+\.atom/packages/platformio-ide-terminal/
+
+\.cache/
+
+\.config/configstore/
+
+\.config/dconf/user

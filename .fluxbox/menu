@@ -18,8 +18,11 @@
 [encoding] {UTF-8}
       [exec] (Terminology) {terminology}
       [exec] (Firefox) {firefox}
-      [exec](Atom) {atom}
-      [exec](GitKraken) {~/Applications/gitkraken/gitkraken}
+      [exec] (Screen Saver) {sleep 2 ;xscreensaver-command -activate}
+[submenu] (Applications)
+      [exec] (GitKraken) {~/Applications/gitkraken/gitkraken}
+      [exec] (Atom) {atom}
+[end]
 [submenu] (Fluxbox menu)
       [config] (Configure)
 [submenu] (System Styles) {Choose a style...}
