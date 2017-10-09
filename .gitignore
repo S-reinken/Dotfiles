@@ -71,6 +71,16 @@
 
 \.cache/
 
+\.cache/*
+
 \.config/configstore/
 
 \.config/dconf/user
+
+\.local/share/
+
+
+
+*.ini
+
+\.mozilla/firefox/Crash Reports/

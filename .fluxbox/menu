@@ -22,6 +22,8 @@
 [submenu] (Applications)
       [exec] (GitKraken) {~/Applications/gitkraken/gitkraken}
       [exec] (Atom) {atom}
+      [exec] (Steam) {steam}
+      [exec] (Minecraft) {minecraft}
 [end]
 [submenu] (Fluxbox menu)
       [config] (Configure)
