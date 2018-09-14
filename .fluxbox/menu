@@ -20,10 +20,23 @@
       [exec] (Firefox) {firefox}
       [exec] (Screen Saver) {sleep 2 ;xscreensaver-command -activate}
 [submenu] (Applications)
+      [exec] (Thunar) {thunar}
+      [exec] (Vim) {gvim}
       [exec] (GitKraken) {~/Applications/gitkraken/gitkraken}
       [exec] (Atom) {atom}
+      [exec] (Mail) {thunderbird}
+      [exec] (Chromium) {chromium}
+      [exec] (Remmina) {remmina}
+      [exec] (Slack) {slack}
+      [exec] (Finance) {kmymoney}
+      [exec] (Torrenter) {qbittorrent}
+      [exec] (PDF Viewer) {acroread}
+      [exec] (LibreOffice) {libreoffice}
+      [exec] (LateX Editor) {gummi}
       [exec] (Steam) {steam}
       [exec] (Minecraft) {minecraft}
+      [exec] (Wine) {wine}
+      [exec] (Sound Control) {pavucontrol}
 [end]
 [submenu] (Fluxbox menu)
       [config] (Configure)

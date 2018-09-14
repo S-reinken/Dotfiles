@@ -84,3 +84,31 @@
 *.ini
 
 \.mozilla/firefox/Crash Reports/
+
+\.config/chromium/BrowserMetrics-spare\.pma
+
+\.config/Slack/Cache/
+
+\.config/Slack/Cookies
+
+\.config/Slack/GPUCache/data_1
+
+*.log
+
+\.config/chromium/CertificateRevocation/4696/
+
+\.config/chromium/CertificateTransparency/876/_metadata/
+
+*.sth
+
+\.config/chromium/Default/
+
+\.config/chromium/Local State
+
+\.config/chromium/ShaderCache/GPUCache/
+
+*.store
+
+*.fingerprint
+
+\.config/chromium/CertificateTransparency/876/

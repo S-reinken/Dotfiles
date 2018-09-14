@@ -6,6 +6,8 @@
 [[ $- != *i* ]] && return
 
 alias ls='ls --color=auto'
+alias startwk="sudo openvpn ~/Work/VPNConfig/sreinken.ovpn"
+alias schoolsrv="ssh -l sreinke2 bfx.aap.jhu.edu"
 
 export PROMPT_DIRTRIM=3
 

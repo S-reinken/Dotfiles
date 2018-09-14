@@ -2,10 +2,19 @@
 OnDesktop Mouse1 :HideMenus
 OnDesktop Mouse2 :WorkspaceMenu
 OnDesktop Mouse3 :RootMenu
+OnDesktop Mod1 M :RootMenu
 
 # scroll on the desktop to change workspaces
 OnDesktop Mouse4 :PrevWorkspace
 OnDesktop Mouse5 :NextWorkspace
+
+# scroll on the desktop to change workspaces
+Mod1 Mouse4 :PrevWorkspace
+Mod1 Mouse5 :NextWorkspace
+
+# Change workspaces with special mouse keys
+Mouse6 :PrevWorkspace
+Mouse7 :NextWorkspace
 
 # scroll on the toolbar to change current window
 OnToolbar Mouse4 :PrevWindow {static groups} (iconhidden=no)
@@ -58,7 +67,7 @@ Mod4 8 :Tab 8
 Mod4 9 :Tab 9
 
 # open a terminal
-Mod1 F1 :Exec xterm
+Mod1 F1 :Exec terminology
 
 # open a dialog to run programs
 Mod1 F2 :Exec fbrun
