@@ -112,3 +112,13 @@
 *.fingerprint
 
 \.config/chromium/CertificateTransparency/876/
+
+\.config/emaildefaults
+
+\.config/GitKraken/Cookies
+
+\.config/QtProject\.conf
+
+\.config/
+
+\.fluxbox/fbrun_history
