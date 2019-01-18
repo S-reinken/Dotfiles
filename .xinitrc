@@ -6,8 +6,11 @@ restore_alsa() {
 }
 restore_also &
 
+[[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
 systemctl --user import-environment DISPLAY
 
 [ ! -s ~/.config/mpd/pid ] && mpd
 
-exec startfluxbox
+#exec startfluxbox
+~/.fehbg &
+exec i3

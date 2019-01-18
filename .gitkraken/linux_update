@@ -1,6 +1,6 @@
 {
   "update_url": "https://release.gitkraken.com/linux/RELEASES",
-  "version": "4.0.3",
-  "url_deb": "http://release.gitkraken.com/linux/GitKraken-v4.0.3.deb",
-  "url_targz": "http://release.gitkraken.com/linux/GitKraken-v4.0.3.tar.gz"
+  "version": "4.0.4",
+  "url_deb": "http://release.gitkraken.com/linux/GitKraken-v4.0.4.deb",
+  "url_targz": "http://release.gitkraken.com/linux/GitKraken-v4.0.4.tar.gz"
 }

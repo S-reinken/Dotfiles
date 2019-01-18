@@ -4,6 +4,17 @@ OnDesktop Mouse2 :WorkspaceMenu
 OnDesktop Mouse3 :RootMenu
 OnDesktop Mod1 M :RootMenu
 
+# Take a screenshot
+Mod1 0 :Exec deepin-screenshot
+
+# Open text editor
+Mod1 9 :Exec gvim
+
+# Open chrome
+
+Control Mod1 c :Exec chromium
+Control Mod1 f :Exec firefox 
+
 # scroll on the desktop to change workspaces
 OnDesktop Mouse4 :PrevWorkspace
 OnDesktop Mouse5 :NextWorkspace

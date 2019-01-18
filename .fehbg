@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --bg-scale '/home/xarlyle0/.fluxbox/backgrounds/bg.jpg' 
+feh --bg-scale '/home/xarlyle0/Config/.config/i3/bg.jpg' 

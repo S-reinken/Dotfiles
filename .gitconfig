@@ -1,3 +1,12 @@
 [user]
 	email = sreinken3@gatech.edu
 	name = Schuyler Reinken
+[alias]
+	co = checkout
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit
+	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all
+	f = fetch --all
+	s = status
+	br = branch
+	a = add
+	p = pull

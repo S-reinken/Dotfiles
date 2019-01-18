@@ -18,6 +18,7 @@
 [encoding] {UTF-8}
       [exec] (Terminology) {terminology}
       [exec] (Firefox) {firefox}
+      [exec] (Gvim) {gvim}
       [exec] (Screen Saver) {sleep 2 ;xscreensaver-command -activate}
 [submenu] (Applications)
       [exec] (Thunar) {thunar}
@@ -27,11 +28,13 @@
       [exec] (Mail) {thunderbird}
       [exec] (Chromium) {chromium}
       [exec] (Remmina) {remmina}
+      [exec] (XChat) {hexchat}
       [exec] (Slack) {slack}
       [exec] (Finance) {kmymoney}
       [exec] (Torrenter) {qbittorrent}
       [exec] (PDF Viewer) {acroread}
       [exec] (LibreOffice) {libreoffice}
+      [exec] (Zotero) {zotero}
       [exec] (LateX Editor) {gummi}
       [exec] (Steam) {steam}
       [exec] (Minecraft) {minecraft}
